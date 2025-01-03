@@ -2,4 +2,6 @@ pandas
 numpy 
 matplotlib 
 scikit-learn 
-nltk
+seaborn
+unittest2
+tabulate
