@@ -10,37 +10,19 @@ Forecast sales in all stores across several cities six weeks ahead of time using
 - Seasonality
 - Locality
 
-## Learning Outcomes
-- Exploration of customer purchasing behavior
-- Prediction of store sales
-- Machine learning approach
-- Deep Learning approach
-- Serving predictions on a web interface
-
 ## Competency Mapping
 - Data preprocessing
 - Model building
 - Model evaluation
 - Model serving
 
-## Team
-- Machine Learning Engineers
-- Data Scientists
-- Finance Analysts
-
-## Key Dates
-- Project kickoff: [Date]
-- Data exploration completion: [Date]
-- Model training completion: [Date]
-- API deployment: [Date]
-
-## Instructions
-### Task 1 - Exploration of Customer Purchasing Behavior
+## Tasks
+### 1 Exploration of Customer Purchasing Behavior
 - Clean data and handle outliers/missing data
 - Visualize features and interactions
 - Analyze customer behavior with respect to promos, holidays, seasonality, etc.
 
-### Task 2 - Prediction of Store Sales
+### 2 Prediction of Store Sales
 #### 2.1 Preprocessing
 - Convert non-numeric columns to numeric
 - Handle NaN values
@@ -66,7 +48,7 @@ Forecast sales in all stores across several cities six weeks ahead of time using
 - Ensure the model is not too deep (two layers)
 - Preprocess time series data and build LSTM regression model
 
-### Task 3 - Model Serving API Call
+### 3 - Model Serving API Call
 - Create a REST API using Flask
 - Load the trained model and scaler
 - Define API endpoints for predictions
