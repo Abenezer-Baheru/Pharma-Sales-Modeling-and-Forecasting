@@ -5,3 +5,7 @@ scikit-learn
 seaborn
 unittest2
 tabulate
+tensorflow
+setuptools
+torch
+statsmodels
